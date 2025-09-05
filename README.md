@@ -1,3 +1,5 @@
+![Header](https://github.com/user-attachments/assets/887cf38e-9ef2-462c-97f7-bcc8c479a9cd)
+
 # 💫 About Me:
 👋 ¡Hola! Soy Diego Gonzalez, un apasionado de la tecnología y el desarrollo de software. Me encanta crear soluciones innovadoras y aprender nuevas herramientas para mejorar cada día como programador.<br><br>• 🌱 Actualmente estoy aprendiendo sobre despliegue en la nube con AWS y automatización con GitHub Actions.<br><br>• 🛠️ Mis tecnologías favoritas incluyen C#,JAVA, HTML/CSS, y frameworks como React, Angular.<br><br>• 🚀 He trabajado en 17 repositorios públicos y varios proyectos privados, donde he desarrollado habilidades en diseño, desarrollo y colaboración.<br><br>• 💬 Siéntete libre de contactarme para hablar sobre tecnología, proyectos open-source, o simplemente para compartir ideas.<br><br>• ⚡ Fun fact: ¡Me encanta resolver problemas y siempre estoy buscando nuevos retos!
 
